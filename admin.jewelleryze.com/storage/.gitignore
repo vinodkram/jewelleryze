@@ -1,3 +1,6 @@
-*
-*/
-!.gitignore
+framework/*
+app/purifier/HTML/*
+app/public/*
+debugbar/*
+logs/*
+
